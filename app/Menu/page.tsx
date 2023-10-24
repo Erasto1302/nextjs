@@ -5,10 +5,10 @@ export default function Menu() {
             <p></p>
 
             <ul>
-                <li>google</li>
-                <li>vercel</li>
-                <li>github</li>
-                <li>tailwind</li>
+                <li>Home</li>
+                <li>Quem Somos</li>
+                <li>Portofólio</li>
+                <li>Produtos</li>
                 
             </ul>
         </nav>

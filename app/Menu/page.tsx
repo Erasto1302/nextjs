@@ -1,4 +1,4 @@
-import { HiacdemiccCap, HiOutlineHome, Hiarrowright, HiBugAnt } from "react-icon/h2"
+import { HiacdemiccCap, HiOutlineHome, Hiarrowright, HiBugAnt } from 'react-icon/h2'
 export default function Menu() {
     return (
         <>
@@ -11,7 +11,7 @@ export default function Menu() {
             <HiacdemiccCap />
             <li className="inline-flex pr-10 pl-2 "> /Menu</li>
             <li className="inline-flex pr-10"> /Menu</li>
-            <li className="inline-flex"></Menu</li>
+            <li className="inline-flex"></li>
         </ul>
         </div>
         </>

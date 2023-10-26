@@ -1,4 +1,4 @@
-import { HiacdemiccCap, HiOutlineHome, Hiarrowright, HiBugAnt } from 'react-icoms/h2'
+import { HiAcademicCap, HiOutlineHome, HiBugAnt } from 'react-icons/hi2'
 export default function Menu() {
     return (
         <>
@@ -6,12 +6,12 @@ export default function Menu() {
         <p className="inline-flex items-center">Bug<HiBugAnt size={60}/> ANT</p>
         <ul className="flex items-center">
             <HiOutlineHome />
-            <li className="inline-flex pr-10 pl-2 items-center"> /Menu</li>
-            <li className="inline-flex pr-10"> /Menu</li>
-            <HiacdemiccCap />
-            <li className="inline-flex pr-10 pl-2 "> /Menu</li>
-            <li className="inline-flex pr-10"> /Menu</li>
-            <li className="inline-flex"></li>
+            <li className="inline-flex pr-10 pl-2 items-center"> Menu</li>
+            <li className="inline-flex pr-10"> Menu</li>
+            <HiAcademicCap />
+            <li className="inline-flex pr-10 pl-2 ">Menu</li>
+            <li className="inline-flex pr-10"> Menu</li>
+           
         </ul>
         </div>
         </>

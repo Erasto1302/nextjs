@@ -3,7 +3,7 @@ export default function Menu() {
     return (
         <>
         <div className="flex bg-amber-500 justify-between pl-20 pr-20 pt-2 pb2">
-        <p className="inline-flex items-center">Bug<HiBugAnt size=(60)/> ANT</p>
+        <p className="inline-flex items-center">Bug<HiBugAnt size={60}/> ANT</p>
         <ul className="flex items-center">
             <HiOutlineHome />
             <li className="inline-flex pr-10 pl-2 items-center"> /Menu</li>

@@ -1,4 +1,4 @@
-import { HiacdemiccCap, HiOutlineHome, Hiarrowright, HiBugAnt } from 'react-icon/h2'
+import { HiacdemiccCap, HiOutlineHome, Hiarrowright, HiBugAnt } from 'react-icoms/h2'
 export default function Menu() {
     return (
         <>
